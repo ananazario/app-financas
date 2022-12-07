@@ -4,7 +4,7 @@ export const Container = styled.div`
   max-width: 1120px;
   margin: 20px auto;
   width: 98%;
-  background-color: #fff;
+  background-color: #FBFDFD;
   box-shadow: 0px 0px 5px #ccc;
   border-radius: 5px;
   display: flex;
@@ -39,6 +39,7 @@ export const RadioGroup = styled.div`
     margin-right: 5px;
     accent-color: black;
     margin-top: 0;
+    cursor: pointer;
   }
 `;
 
@@ -48,5 +49,5 @@ export const Button = styled.button`
   border-radius: 5px;
   cursor: pointer;
   color: white;
-  background-color: teal;
+  background-color: #A03EEA;
 `;

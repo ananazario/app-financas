@@ -4,7 +4,7 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff;
+  background-color: #FBFDFD;
   border-radius: 5px;
   padding: 5px 15px;
   width: 30%;
@@ -29,7 +29,7 @@ export const Header = styled.header`
   width: 100%;
   gap: 10px;
   margin: 20px auto;
-  
+
   svg {
     width: 25px;
     height: 25px;
