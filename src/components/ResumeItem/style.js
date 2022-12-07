@@ -9,7 +9,7 @@ export const Container = styled.div`
   padding: 5px 15px;
   width: 30%;
   @media (max-width: 750px) {
-    width: 20%;
+    width: 100%;
     p {
       font-size: 12px;
     }
